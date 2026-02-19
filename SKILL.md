@@ -4,7 +4,8 @@ description: Transform a simple narrative, idea, or explanation into an extended
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4957
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - callbacks
